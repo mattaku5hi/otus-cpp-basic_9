@@ -47,8 +47,8 @@ unsigned int benchmark_optimal_threads(const unsigned int threadsAmount)
     const unsigned int threadsMax = std::min(threadsAmount, std::thread::hardware_concurrency());
     const unsigned int threadsMin = 1;
     const unsigned int step = 1;
-    const unsigned int iterationsAmount = 1000;  // Number of benchmark iterations
-    const unsigned int wordsTotal = 33333;   // Total words to process (fixed amount)
+    const unsigned int iterationsAmount = 111;  // Number of benchmark iterations
+    const unsigned int wordsTotal = 3333;   // Total words to process (fixed amount)
     const unsigned int filesTotal = 32;         // Number of files to process (fixed amount)
 
     std::vector<unsigned int> threads;
