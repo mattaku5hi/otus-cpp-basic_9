@@ -1,3 +1,0 @@
-/home/mattakushi/Projects/work_selfstudy/otus_basic_hw/otus-cpp-basic_9/release/CMakeFiles/most_used_words.dir
-/home/mattakushi/Projects/work_selfstudy/otus_basic_hw/otus-cpp-basic_9/release/CMakeFiles/edit_cache.dir
-/home/mattakushi/Projects/work_selfstudy/otus_basic_hw/otus-cpp-basic_9/release/CMakeFiles/rebuild_cache.dir
